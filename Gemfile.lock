@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    card_validator (0.1.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  card_validator
+
+BUNDLED WITH
+   1.12.5
